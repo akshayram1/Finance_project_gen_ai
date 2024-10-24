@@ -12,7 +12,7 @@
 
 - **Frontend**: ReactJS
 - **Backend**: Express / Flask
-- **Database**: MongoDB
+- **Database**: MongoDB , Firebase 
 - **Authentication**: JWT
 
 ## Installation
