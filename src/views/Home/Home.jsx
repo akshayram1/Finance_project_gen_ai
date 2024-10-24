@@ -44,7 +44,7 @@ const Home = () => {
                         <p>Several studies show that having a clear and tangible objective helps to achieve it. That is the soul of this website. Look at the goal, and achieve it.</p>
                     </div>
                     <div className='col-lg-6 explain-img'>
-                        <img src="https://res.cloudinary.com/dfbloaduq/image/upload/v1651987184/MoneyFy/graff_adhrze.png" alt="" />
+                        <img src="op.png" alt="" />
                     </div>
                 </div>
             </div>
