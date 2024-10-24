@@ -45,7 +45,6 @@ const Home = () => {
                     </div>
                     <div className='col-lg-6 explain-img'>
                         <img src="https://res.cloudinary.com/dfbloaduq/image/upload/v1651987184/MoneyFy/graff_adhrze.png" alt="" />
-                        {/* <img src="https://res.cloudinary.com/dmxbkyiab/image/upload/v1729761448/hyixl4lclzoaafydr7gm.png" alt="" /> */}
                     </div>
                 </div>
             </div>
