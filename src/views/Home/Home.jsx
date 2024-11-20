@@ -1,5 +1,5 @@
 import { FiTrendingUp, FiShoppingBag, FiStar } from "react-icons/fi";
-import { Link  } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import './Home.scss'
 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
             <div className='container'>
                 <div className='row'>
                     <div className='col-lg-12 hero-container'>
-                        <h1>The easy way <br/> to save</h1>
+                        <h1>The easy way <br /> to save</h1>
                         <div className='buttons-home'>
                             <Link className="button" to='/login'>Login</Link>
                             <Link className="button" to='/register'>Register</Link>
@@ -32,7 +32,7 @@ const Home = () => {
                         </div>
                         <div className='feature-card'>
                             <div className='icon-3'>
-                                 <FiStar />
+                                <FiStar />
                             </div>
                             <h3>Creates goals</h3>
                         </div>
@@ -50,6 +50,6 @@ const Home = () => {
             </div>
         </div>
     )
-} 
+}
 
 export default Home

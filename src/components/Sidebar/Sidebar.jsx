@@ -72,7 +72,7 @@ const sidebarNavItems = [
         sectionNumber: 9
     },
     {
-        display: 'Stock Prediction',
+        display: 'Stock News Analysis',
         icon: <FiPaperclip />,
         to: '/prediction',
         section: 'prediction',

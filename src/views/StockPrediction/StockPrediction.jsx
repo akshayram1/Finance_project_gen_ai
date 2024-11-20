@@ -24,7 +24,7 @@ const Prediction = () => {
         <div style={styles.iframeContainer}>
           <iframe
             src={selectedSrc}
-            title="Stock Predictor"
+            title="Stock News analysis"
             style={styles.iframe}
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             loading="lazy"
