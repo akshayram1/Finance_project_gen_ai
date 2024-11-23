@@ -18,7 +18,7 @@ function RecipeChatbot() {
     setIsLoading(true);
 
     try {
-      const response = await fetch('https://khadde.pythonanywhere.com/chef', {
+      const response = await fetch('https://Akshayram1.pythonanywhere.com/chef', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
